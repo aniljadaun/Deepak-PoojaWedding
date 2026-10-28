@@ -1,5 +1,1 @@
-Deepak & Pooja illustrated wedding website
-Open index.html or upload all files to GitHub Pages at the same directory level.
-Illustrations use painterly filters applied to the supplied photographs (not individually AI-redrawn portraits).
-Music is user-provided; ensure permission to publicly distribute.
-Confirm venue, schedule, and RSVP details before publication.
+Open index.html in Chrome or upload all files in this folder to your GitHub Pages repository root. Keep illustrated-hero.webp, illustration-01.webp through illustration-10.webp, and aaj-din-chadheya.mp3 next to index.html. Illustrations are cropped from generated wedding concept art and are artistic interpretations, not one-to-one redrawn versions of each original photo. Confirm venue and RSVP details before publishing. Confirm rights to publicly host the MP3.
